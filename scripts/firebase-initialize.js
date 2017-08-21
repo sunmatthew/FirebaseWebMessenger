@@ -1,5 +1,6 @@
+// API key hidden on github
 var config = {
-	apiKey: "AIzaSyBvKacYBK7UcZ-S8hqJ-enQBjfL6XD996k",
+	apiKey: "",
 	authDomain: "messaging-666f4.firebaseapp.com",
 	databaseURL: "https://messaging-666f4.firebaseio.com",
 	projectId: "messaging-666f4",
