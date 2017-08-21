@@ -1,0 +1,158 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+#homeContainer {
+	width: 500px;
+	text-align: center;
+}
+#joinRoomButton {
+	font-family: 'Lato', sans-serif;
+	color: white;
+	border: 2px solid #448AFF;
+	background-color: #448AFF;
+	display: block;
+	float: center;
+	font-size: 22px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	padding: 5px;
+}
+#createRoomButton {
+	font-family: 'Lato', sans-serif;
+	color: white;
+	border: 2px solid #448AFF;
+	background-color: #448AFF;
+	float: center;
+	font-size: 22px;
+	display: block;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+
+
+
+
+
+
+#createRoomContainer {
+	width: 500px;
+	text-align: center;
+}
+#createRoomNameUserNameField {
+	width: 70%;
+	display: block;
+	margin: 0 auto;
+	font-size: 18px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+#createRoomNameField {
+	width: 70%;
+	display: block;
+	margin: 0 auto;
+	font-size: 18px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+#confirmRoomCreateButton {
+	font-family: 'Lato', sans-serif;
+	color: white;
+	border: 2px solid #448AFF;
+	background-color: #448AFF;
+	float: center;
+	font-size: 22px;
+	display: inline;
+	padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+#joinRoomContainer {
+	width: 500px;
+	text-align: center;
+}
+#joinRoomUserNameField {
+	width: 70%;
+	display: block;
+	margin: 0 auto;
+	font-size: 18px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+#joinRoomNameField {
+	width: 70%;
+	display: block;
+	margin: 0 auto;
+	font-size: 18px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+#confirmJoinRoom {
+	font-family: 'Lato', sans-serif;
+	color: white;
+	border: 2px solid #448AFF;
+	background-color: #448AFF;
+	float: center;
+	font-size: 22px;
+	display: inline;
+	padding: 5px;
+}
+
+
+
+
+
+
+
+
+#roomName {
+	margin-bottom: 0;
+}
+
+hr {
+	width: 95%;
+	float: left;
+	border: 1px solid black;
+}
+
+#messageContainer {
+	width: 500px;
+}
+
+#displayTable {
+	width: 100%;
+}
+
+#textField {
+	width: 80%;
+	font-family: 'Lato', sans-serif;
+}
+
+#sendButton {
+	width: 15%;
+	font-family: 'Lato', sans-serif;
+	color: white;
+	border: 2px solid #448AFF;
+	background-color: #448AFF;
+}
+
+td {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-left: 2px solid #448AFF;
+	padding-left: 10px;
+}
+
+strong {
+	text-transform: uppercase;
+}
+
